@@ -1,0 +1,2 @@
+# Discow
+Discogs helper script
