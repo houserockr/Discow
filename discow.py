@@ -12,7 +12,7 @@ import browser_cookie3
 from random import randint
 from time import sleep
 from pprint import pprint
-from myconfig import conf
+from config import conf
 
 ###############################################################################
 ###############################################################################
